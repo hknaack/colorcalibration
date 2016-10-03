@@ -5,4 +5,5 @@ l: Lab cLUT			0.990745	0.400050
 x: XYZ cLUT			1.391244	0.696595
 X: display XYZ cLUT + matrix	1.391244	0.696595
 g: gamma + matrix		4.219224	2.139655
+s: shaper + matrix		4.090934	1.600403
 
