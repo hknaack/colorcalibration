@@ -1,4 +1,5 @@
 Profiling results of IMG_0063.tif:
 
 Algorithm type			peak error	average error
+l: Lab cLUT			0.990745	0.400050
 
