@@ -8,3 +8,4 @@ g: gamma + matrix		4.219224	2.139655
 s: shaper + matrix		4.090934	1.600403
 m: matrix			4.897805	2.227330
 G: single gamma + matrix	4.509718	2.087384
+S: single shaper + matrix	4.426114	1.951013
