@@ -1,0 +1,4 @@
+Profiling results of IMG_0063.tif:
+
+Algorithm type			peak error	average error
+
